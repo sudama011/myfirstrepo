@@ -9,7 +9,10 @@ int main()
     int b = 10;
     int c = a + b;
     cout << c;
-    
+
+    //jfsfndf mnjokn vmhoid
+    cout << 138214;
+
     return 0;
 }
 
