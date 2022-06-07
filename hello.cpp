@@ -5,8 +5,11 @@ using namespace std;
 int main()
 {
     cout << "all wotk fine";
-    cout << "change b y== sudama ";
-    cout << "fskjfdfhe";
+    int a = 5;
+    int b = 10;
+    int c = a + b;
+    cout << c;
     
     return 0;
 }
+
