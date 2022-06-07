@@ -5,5 +5,8 @@ using namespace std;
 int main()
 {
     cout << "all wotk fine";
+    cout << "change b y== sudama ";
+    cout << "fskjfdfhe";
+    
     return 0;
 }
